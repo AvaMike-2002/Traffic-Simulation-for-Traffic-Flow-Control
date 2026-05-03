@@ -257,7 +257,4 @@ MIT License - See [LICENSE](LICENSE) file for details
 *Built with 🧠 and ⚡ for AI research*
 ## 🎥 Demo
 
-<video width="100%" controls>
-  <source src="Traffic Simulation for Traffic Flow Control.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/AvaMike-2002/Traffic-Simulation-for-Traffic-Flow-Control/commit/b8f812c6795d00a426a60e181fe774ab627ce41a
