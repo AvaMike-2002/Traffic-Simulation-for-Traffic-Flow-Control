@@ -236,17 +236,17 @@ If you use this project in your research, please cite:
 
 ```bibtex
 @misc{traffic_rl_2024,
-  author = {[Your Name]},
+  author = {[Nyaliep Michael]},
   title = {Traffic Intersection RL: DQN-Based Traffic Light Control},
   year = {2024-2025},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/traffic-rl}
+  url = {https://github.com/AvaMike-2002/Traffic-Simulation-for-Traffic-Flow-Control}
 }
 ```
 
 ## 📧 Contact
 
-Project Link: [https://github.com/yourusername/traffic-rl](https://github.com/yourusername/traffic-rl)
+Project Link: [https://github.com/AvaMike-2002/Traffic-Simulation-for-Traffic-Flow-Control]
 
 ---
 
