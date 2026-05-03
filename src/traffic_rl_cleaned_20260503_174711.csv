@@ -1,0 +1,1 @@
+timestamp,step,epoch,decision,action,phase,reward,cumulative_reward,cars_n,cars_s,cars_w,cars_e,completed_cars,collisions,red_violations,lane_departures,total_cars,epsilon

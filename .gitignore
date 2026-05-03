@@ -1,0 +1,7 @@
+__pycache__
+.ipynb_checkpoints
+data/figs/*
+test.ipynb
+data/stats (old)
+data/evals/*
+data/vids/*
